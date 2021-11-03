@@ -1,22 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import RandomArt from './practice/RandomArt';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <RandomArt />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <s>Edit <code>src/App.js</code> and save to reload. <br/></s>
+          LIES. LIES SLANDER AND CALUMNY. 
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
