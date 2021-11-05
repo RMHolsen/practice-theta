@@ -10,3 +10,4 @@ No. No it does not. (Or maybe I need the .env file.) This is going to be exhaust
 Created PushDaButton Component
 Created ClickyButton Component
 Created RandomArt Component and artData data to feed it. This one might eventually get deployed.
+Created RandomColor Component. This one might also get deployed so I can pick a freaking color for my eyeshadow.
