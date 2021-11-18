@@ -11,3 +11,7 @@ Created PushDaButton Component
 Created ClickyButton Component
 Created RandomArt Component and artData data to feed it. This one might eventually get deployed.
 Created RandomColor Component. This one might also get deployed so I can pick a freaking color for my eyeshadow.
+
+## 17 November 2021
+Created ColorPicker Component 
+Cleaned up App code with some labeling for individual practice module specific code
