@@ -15,3 +15,8 @@ Created RandomColor Component. This one might also get deployed so I can pick a 
 ## 17 November 2021
 Created ColorPicker Component 
 Cleaned up App code with some labeling for individual practice module specific code
+
+## 18 November 2021
+Added QuizIndex Component from CodeAcademy
+Added GroceryCart Component from CodeAcademy
+Added ProfileForm Component from CodeAcademy
