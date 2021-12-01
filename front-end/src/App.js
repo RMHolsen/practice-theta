@@ -5,7 +5,8 @@ import React from 'react';
 // import Oracle from './practice/Oracle';
 // import AdvancedOracle from './practice/OracleTwo';
 // import Dogs from './practice/Dogs';
-import ColorPicker from './practice/ColorPicker';
+// import ColorPicker from './practice/ColorPicker';
+import { PhoneNumberForm } from './practice/single-file/PhoneNumber'
 
 class App extends React.Component {
  
@@ -28,7 +29,7 @@ class App extends React.Component {
       <div className="App">
         <header className="App-header">
 
-          <ColorPicker />
+          <PhoneNumberForm />
 
           {/* <input type="text" value={this.state.oracle} onChange={this.handleChange} /> */}
           {/* <AdvancedOracle oracle={this.state.oracle} /> */}

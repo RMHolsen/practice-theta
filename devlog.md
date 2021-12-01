@@ -20,3 +20,7 @@ Cleaned up App code with some labeling for individual practice module specific c
 Added QuizIndex Component from CodeAcademy
 Added GroceryCart Component from CodeAcademy
 Added ProfileForm Component from CodeAcademy
+
+## 1 December 2021
+Separated single-file components into their own folder to (futilely) clean up file tree
+Added PhoneNumberForm Component from CodeAcademy
