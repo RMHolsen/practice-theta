@@ -33,3 +33,13 @@ export function PhoneNumberForm() {
         </form>
     )
 }
+
+import PropTypes from 'prop-types'
+
+CopyCat.propTypes = {
+    copying: PropTypes.bool.isRequired,
+    toggleTape: PropTypes.func.isRequired,
+    value: PropTypes.string.isRequired,
+    handleChange: PropTypes.func.isRequired,
+    name: PropTypes.string.isRequired
+}

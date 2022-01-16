@@ -4,9 +4,11 @@ import React, { useState } from 'react'
 
 export default function ColorPicker() {
     const [color, setColor] = useState();
-    // yes it looks like set color refers to a function that isn't defined but it's basically a custom-labeled version of setState
+    // yes it looks like set color refers to a function that isn't defined 
+    // but it's basically a custom-labeled version of setState
     // just as 'color' is this.state { color: null } to begin with
-    // if we wanted to start out with a default color we would type useState('black'); or something
+    // if we wanted to start out with a default color 
+    // we would type useState('black')
 
     const divStyle = {backgroundColor: color};
 
